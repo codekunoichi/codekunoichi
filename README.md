@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 Here are some projects I’m actively working on 👇  
 
 [![Clinical Insights AI](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=clinical_insights_ai&theme=tokyonight)](https://github.com/codekunoichi/clinical_insights_ai)  
-[![Patient ETL](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=patient_etl&theme=tokyonight)](https://github.com/codekunoichi/patient_etl)  
-[![Measure Engine](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=measure-engine&theme=tokyonight)](https://github.com/codekunoichi/measure-engine)  
-[![Hey MDLand](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=hey-mdland&theme=tokyonight)](https://github.com/codekunoichi/hey-mdland)  
+[![Clinical Note SummarizerL](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=clinical-notes-summarizer&theme=tokyonight)](https://github.com/codekunoichi/clinical-notes-summarizer)  
+[![AI powered Prior Authorization](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=healthcare-pa-intelligence&theme=tokyonight)](https://github.com/codekunoichi/healthcare-pa-intelligence)  
+[![Rural health in India - Symptom Checker](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=rural-health-ai-india&theme=tokyonight)](https://github.com/codekunoichi/rural-health-ai-india)  
 
 ---
 
