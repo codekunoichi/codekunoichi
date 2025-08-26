@@ -48,10 +48,10 @@ Here are some projects I’m actively working on 👇
 ---
 
 ## 🌱 Current Focus
-- 🔹 **1 commit a day streak** → building consistency in coding & learning  
-- 🔹 **Agentic AI for Healthcare** → prototypes for digital workforce  
-- 🔹 **AWS Certification (SAA-C03)** → cloud architecture & infrastructure  
-- 🔹 **Portfolio Building** → documenting projects & learning journey  
+- 🔹 Sustaining a **daily coding streak (3+ weeks strong, with only one gap day)** → consistency over perfection  
+- 🔹 Advancing **Agentic AI for Healthcare** → practical prototypes in EHR & RCM  
+- 🔹 Deepening **AWS cloud expertise (SAA-C03 prep)** → design for scale & reliability  
+- 🔹 Curating a **CTO portfolio** → leaving behind documented projects & learnings
 
 ---
 
