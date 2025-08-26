@@ -54,9 +54,9 @@ While some of my current work is in private repositories, I want to highlight th
 - **claim-denial-prevention-mvp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
   *Proof-of-concept engine for claim denial prediction using payer-specific rules and ERA-labeled training data.*
 
----
-
 📝 *These repositories are private, but they showcase my focus on solving RCM challenges such as claim scrubbing, denial prevention, HCC revenue intelligence, and AI-driven automation within ambulatory healthcare IT.*
+
+---
 
 ## 🛠️ Tech & Tools
 - **Languages**: Python, JavaScript  
