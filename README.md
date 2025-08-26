@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👩‍💻 Hi, I'm Ninja (codekunoichi)
+# 👩‍💻 Hi, I'm Rumpa (codekunoichi)
 
 🌸 CTO | Builder in Ambulatory Healthcare IT & AI  
 📈 Committed to **daily learning & code contribution**  
