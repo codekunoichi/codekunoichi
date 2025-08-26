@@ -41,6 +41,23 @@ Here are some projects I’m actively working on 👇
 
 ---
 
+## 🔐 Private RCM Projects (Selected Work)
+
+While some of my current work is in private repositories, I want to highlight the focus areas I’m actively contributing to in **Revenue Cycle Management (RCM)**. These projects represent my ongoing exploration of AI, automation, and healthcare payment workflows:
+
+- **revintel-mcp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
+  *AI-native server designed to help healthcare organizations shift from reactive to proactive revenue cycle management.*
+
+- **hcc-revenue-intelligence-mvp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
+  *Prototype HCC MCP server to surface risk adjustment and revenue leakage insights.*
+
+- **claim-denial-prevention-mvp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
+  *Proof-of-concept engine for claim denial prediction using payer-specific rules and ERA-labeled training data.*
+
+---
+
+📝 *These repositories are private, but they showcase my focus on solving RCM challenges such as claim scrubbing, denial prevention, HCC revenue intelligence, and AI-driven automation within ambulatory healthcare IT.*
+
 ## 🛠️ Tech & Tools
 - **Languages**: Python, JavaScript  
 - **Cloud**: AWS (RDS, S3, Lambda, DMS, HealthLake)  
