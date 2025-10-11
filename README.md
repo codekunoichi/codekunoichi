@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ## 📊 Contribution Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codekunoichi&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codekunoichi&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codekunoichi&theme=tokyo-night)
 <img width="1211" height="456" alt="image" src="https://github.com/user-attachments/assets/803eb6c2-c2c6-4c58-9055-7a198bc05b90" />
 
