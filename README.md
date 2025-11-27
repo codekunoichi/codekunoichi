@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codekunoichi&theme=tokyo-night)
 <img width="1211" height="456" alt="image" src="https://github.com/user-attachments/assets/803eb6c2-c2c6-4c58-9055-7a198bc05b90" />
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=codekunoichi&bg_color=0d1117&color=9cf&line=9cf&point=ffffff&hide_border=true)
+
 
 ---
 
