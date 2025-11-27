@@ -46,7 +46,7 @@ Here are some projects I’m actively working on 👇
 While some of my current work is in private repositories, I want to highlight the focus areas I’m actively contributing to in **Revenue Cycle Management (RCM)**. These projects represent my ongoing exploration of AI, automation, and healthcare payment workflows:
 
 - **npi-intelligence-graph** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)
-  *End-to-end NPI analytics and knowledge-graph engine built on my DGX-Sparc workstation — transforming the national NPI registry into a behavioral-health market intelligence and sales lead generation system.*
+  *End-to-end NPI analytics and knowledge-graph engine built on my DGX-Sparc workstation, transforming the national NPI registry into a behavioral-health market intelligence and sales lead generation system.*
 
 - **revintel-mcp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
   *AI-native server designed to help healthcare organizations shift from reactive to proactive revenue cycle management.*
