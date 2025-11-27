@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 Contribution Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codekunoichi&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codekunoichi&theme=dark&hide_border=true)
 
