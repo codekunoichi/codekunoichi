@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ## 🚀 Active Repositories
 Here are some projects I’m actively working on 👇  
 
+[![DGX Spark Learning Journey](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=dgx-spark-open-source&theme=tokyonight)](https://github.com/codekunoichi/dgx-spark-open-source)  
 [![Clinical Insights AI](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=clinical_insights_ai&theme=tokyonight)](https://github.com/codekunoichi/clinical_insights_ai)  
 [![Clinical Note SummarizerL](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=clinical-notes-summarizer&theme=tokyonight)](https://github.com/codekunoichi/clinical-notes-summarizer)  
 [![AI powered Prior Authorization](https://github-readme-stats.vercel.app/api/pin/?username=codekunoichi&repo=healthcare-pa-intelligence&theme=tokyonight)](https://github.com/codekunoichi/healthcare-pa-intelligence)  
