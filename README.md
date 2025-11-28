@@ -44,21 +44,26 @@ Here are some projects I’m actively working on 👇
 
 ## 🔐 Private RCM Projects (Selected Work)
 
-While some of my current work is in private repositories, I want to highlight the focus areas I’m actively contributing to in **Revenue Cycle Management (RCM)**. These projects represent my ongoing exploration of AI, automation, and healthcare payment workflows:
+While some of my work lives in private repositories, here are the core systems I’m actively building today under the **ContextRCM** umbrella — focused on shift-left denial prevention, ERA-driven intelligence, and AI-assisted revenue cycle automation.
+
+Although the initial pilots are in **Behavioral Health**, the architecture is fully specialty-agnostic and can extend to primary care, multi-specialty, surgical groups, and other ambulatory settings.
 
 - **npi-intelligence-graph** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
-  *End-to-end NPI analytics and knowledge-graph engine built on my DGX-Sparc workstation, transforming the national NPI registry into a behavioral-health market intelligence and sales lead generation system.*
+  End-to-end NPI analytics and knowledge-graph engine running on my DGX-Sparc workstation.  
+  Transforms the national NPI registry into market intelligence and targeted lead-generation across any specialty.
 
-- **revintel-mcp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
-  *AI-native server designed to help healthcare organizations shift from reactive to proactive revenue cycle management.*
+- **context-rcm-rules-engine** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
+  Unified rules engine combining CMS policy (NCCI, MUE, LCD/MCD), payer-specific quirks, and dynamic ERA-based behavior patterns to power shift-left denial prevention across specialties.
 
-- **hcc-revenue-intelligence-mvp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
-  *Prototype HCC MCP server to surface risk adjustment and revenue leakage insights.*
+- **context-rcm-denial-intelligence** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
+  ERA-driven denial clustering, preventability scoring, and “What-if” pre-submission simulation.  
+  Core engine for proactive denial prevention in ambulatory workflows — not limited to BH.
 
-- **claim-denial-prevention-mvp** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
-  *Proof-of-concept engine for claim denial prediction using payer-specific rules and ERA-labeled training data.*
+- **context-rcm-underpayment-detector** ![Private Repo](https://img.shields.io/badge/repo-private-red?style=flat-square)  
+  Statistical reconstruction of payer fee schedules using ERA payments.  
+  Detects silent underpayments, shortfalls, and contract leakage for any CPT/modifier set.
 
-📝 *These repositories are private, but they showcase my focus on solving RCM challenges such as claim scrubbing, denial prevention, HCC revenue intelligence, and AI-driven automation within ambulatory healthcare IT.*
+📝 *These repositories are private, but together they form the backbone of the ContextRCM mission: a proactive, intelligence-driven approach to ambulatory revenue cycle management — reducing denials, reconstructing fee schedules, enabling clean claims on first submission, and scaling across specialties with transparent, data-driven insight.*
 
 ---
 
