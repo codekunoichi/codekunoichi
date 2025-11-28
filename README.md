@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👩‍💻 Hi, I'm Rumpa (codekunoichi)
+👋 Hi there
 
-🌸 CTO | Builder in Ambulatory Healthcare IT & AI  
-📈 Committed to **daily learning & code contribution**  
-💡 Exploring **Claude Code, Agentic AI, and AWS cloud**  
-🌱 Currently preparing for **AWS Solutions Architect (SAA-C03)**
+🧑‍💻 Hi, I'm Rumpa (codekunoichi)
+
+🌸 CTO building intelligent systems for ambulatory healthcare  
+📚 Deeply studying medical billing, coding, and CMS reimbursement policy to understand the system end-to-end  
+🧠 Exploring knowledge graphs on my DGX-Sparc workstation (NPI networks, payer patterns, provider clusters)  
+⚙️ Applying AI + policy + ERA data to shift denial prevention left  
+📈 100+ day GitHub streak — I learn by building every single day
 
 ---
 
