@@ -79,10 +79,12 @@ Although the initial pilots are in **Behavioral Health**, the architecture is fu
 ---
 
 ## 🌱 Current Focus
-- 🔹 Sustaining a **daily coding streak (3+ weeks strong, with only one gap day)** → consistency over perfection  
-- 🔹 Advancing **Agentic AI for Healthcare** → practical prototypes in EHR & RCM  
-- 🔹 Deepening **AWS cloud expertise (SAA-C03 prep)** → design for scale & reliability  
-- 🔹 Curating a **CTO portfolio** → leaving behind documented projects & learnings
+
+- Sustaining a daily coding streak → learning by building every day  
+- Studying medical billing, coding, and CMS reimbursement rules  
+- Developing ContextRCM’s shift-left denial prevention architecture  
+- Building NPI-driven knowledge graphs on DGX-Sparc  
+- Exploring ERA intelligence for clean-claim automation
 
 ---
 
