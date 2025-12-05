@@ -37,15 +37,11 @@ Here are some ideas to get you started:
 ## 🚀 Active Repositories
 Here are some projects I’m actively working on 👇  
 
-[![DGX Spark Learning Journey](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=codekunoichi&repo=dgx-spark-open-source&theme=tokyonight)](https://github.com/codekunoichi/dgx-spark-open-source)  
-
-[![Clinical Insights AI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=codekunoichi&repo=clinical_insights_ai&theme=tokyonight)](https://github.com/codekunoichi/clinical_insights_ai)  
-
-[![Clinical Note Summarizer](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=codekunoichi&repo=clinical-notes-summarizer&theme=tokyonight)](https://github.com/codekunoichi/clinical-notes-summarizer)  
-
-[![AI powered Prior Authorization](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=codekunoichi&repo=healthcare-pa-intelligence&theme=tokyonight)](https://github.com/codekunoichi/healthcare-pa-intelligence)  
-
-[![Rural health in India - Symptom Checker](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=codekunoichi&repo=rural-health-ai-india&theme=tokyonight)](https://github.com/codekunoichi/rural-health-ai-india)
+- [**dgx-spark-open-source**](https://github.com/codekunoichi/dgx-spark-open-source) – DGX Spark setup notes, Ubuntu + GPU workflows, and cheatsheets.  
+- [**clinical_insights_ai**](https://github.com/codekunoichi/clinical_insights_ai) – Clinical data exploration & AI experiments.  
+- [**clinical-notes-summarizer**](https://github.com/codekunoichi/clinical-notes-summarizer) – LLM-powered summarization of clinical notes.  
+- [**healthcare-pa-intelligence**](https://github.com/codekunoichi/healthcare-pa-intelligence) – AI-assisted prior authorization reasoning.  
+- [**rural-health-ai-india**](https://github.com/codekunoichi/rural-health-ai-india) – Symptom checker experiments for rural health contexts.
 
 ---
 
