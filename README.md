@@ -69,6 +69,7 @@ Although the initial pilots are in **Behavioral Health**, the architecture is fu
 📝 *These repositories are private, but together they form the backbone of the ContextRCM mission: a proactive, intelligence-driven approach to ambulatory revenue cycle management — reducing denials, reconstructing fee schedules, enabling clean claims on first submission, and scaling across specialties with transparent, data-driven insight.*
 
 ---
+
 ## 🕸️ GraphDB Adventures
 
 I’ve recently fallen down the rabbit hole of **graph databases** — and it turns out they’re a
@@ -91,8 +92,9 @@ I’ve been following along with Neo4j’s GraphAcademy courses as I learn how t
 graphs from first principles:  
 👉 (Neo4J GraphAcademy Profile)[https://graphacademy.neo4j.com/u/7d1a842c-d173-413f-8c42-ea63792f10d0/] 
 
-I’m having so much fun connecting dots — literally — and it feels like a whole new way to think
-about revenue cycle intelligence.
+I'm having so much fun connecting dots - literally - and it feels like a whole new way to think about revenue cycle intelligence.
+
+
 ---
 
 ## 🛠️ Tech & Tools
