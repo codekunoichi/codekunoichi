@@ -69,6 +69,31 @@ Although the initial pilots are in **Behavioral Health**, the architecture is fu
 📝 *These repositories are private, but together they form the backbone of the ContextRCM mission: a proactive, intelligence-driven approach to ambulatory revenue cycle management — reducing denials, reconstructing fee schedules, enabling clean claims on first submission, and scaling across specialties with transparent, data-driven insight.*
 
 ---
+## 🕸️ GraphDB Adventures
+
+I’ve recently fallen down the rabbit hole of **graph databases** — and it turns out they’re a
+surprisingly natural fit for healthcare. I’ve been exploring how relationships actually behave
+in the real world: providers, payers, rules, denials, claims, and all the hidden links in
+between.
+
+This curiosity led me to start sketching an **RCM Knowledge Graph** that connects:
+
+- Payers  
+- CMS/NCCI/MUE/LCD rules  
+- Denial patterns (CARC/RARC)  
+- Claim histories  
+- Preventability clusters  
+- Underpayment signals with statistical significance  
+
+The idea is simple: let the graph surface insights that spreadsheets quietly bury.
+
+I’ve been following along with Neo4j’s GraphAcademy courses as I learn how to design knowledge
+graphs from first principles:  
+👉 (Neo4J GraphAcademy Profile)[https://graphacademy.neo4j.com/u/7d1a842c-d173-413f-8c42-ea63792f10d0/] 
+
+I’m having so much fun connecting dots — literally — and it feels like a whole new way to think
+about revenue cycle intelligence.
+---
 
 ## 🛠️ Tech & Tools
 - **Languages**: Python, JavaScript  
