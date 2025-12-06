@@ -90,7 +90,7 @@ The idea is simple: let the graph surface insights that spreadsheets quietly bur
 
 I’ve been following along with Neo4j’s GraphAcademy courses as I learn how to design knowledge
 graphs from first principles:  
-👉 (Neo4J GraphAcademy Profile)[https://graphacademy.neo4j.com/u/7d1a842c-d173-413f-8c42-ea63792f10d0/] 
+👉 [Neo4J GraphAcademy Profile](https://graphacademy.neo4j.com/u/7d1a842c-d173-413f-8c42-ea63792f10d0/)
 
 I'm having so much fun connecting dots - literally - and it feels like a whole new way to think about revenue cycle intelligence.
 
