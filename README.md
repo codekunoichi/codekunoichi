@@ -101,7 +101,8 @@ I'm having so much fun connecting dots - literally - and it feels like a whole n
 - **Languages**: Python, JavaScript  
 - **Cloud**: AWS (RDS, S3, Lambda, DMS, HealthLake)  
 - **AI/ML**: Claude Code, Agentic AI, Fast.ai, scikit-learn  
-- **Healthcare IT**: EHR, RCM, HL7, FHIR  
+- **Healthcare IT**: EHR, RCM, HL7, FHIR
+- **Security & Compliance**: HIPAA-ready architecture, PHI data isolation, RBAC design
 
 ---
 
