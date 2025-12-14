@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=codekunoichi&bg_color=0d1117&color=79c0ff&line=79c0ff&point=2ea44f&area=true&hide_border=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=codekunoichi&bg_color=0d1117&color=9cf&line=9cf&point=ffffff&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=codekunoichi&theme=tokyonight&hide_border=true)
 
 ---
 
