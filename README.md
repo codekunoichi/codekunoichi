@@ -35,14 +35,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Active Repositories
-Here are some projects I’m actively working on 👇  
+- ## 🚀 Active Repositories
+
+Here are some projects I’m actively working on 👇
 
 - [**dgx-spark-open-source**](https://github.com/codekunoichi/dgx-spark-open-source) – DGX Spark setup notes, Ubuntu + GPU workflows, and cheatsheets.  
 - [**clinical_insights_ai**](https://github.com/codekunoichi/clinical_insights_ai) – Clinical data exploration & AI experiments.  
-- [**clinical-notes-summarizer**](https://github.com/codekunoichi/clinical-notes-summarizer) – LLM-powered summarization of clinical notes.  
-- [**healthcare-pa-intelligence**](https://github.com/codekunoichi/healthcare-pa-intelligence) – AI-assisted prior authorization reasoning.  
-- [**rural-health-ai-india**](https://github.com/codekunoichi/rural-health-ai-india) – Symptom checker experiments for rural health contexts.
+- [**demo-over-deck**](https://github.com/codekunoichi/demo-over-deck) – Using AI-assisted MVPs to accelerate venture learning (demo-first mindset).  
+- [**fastai-hf-deployment**](https://github.com/codekunoichi/fastai-hf-deployment) – End-to-end playbook: train fastai locally → deploy to Hugging Face Spaces.  
+- [**fastai-medical-ml**](https://github.com/codekunoichi/fastai-medical-ml) – fast.ai-inspired ML exercises applied to real ambulatory healthcare problems.
 
 ---
 
