@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ## 🚀 Active Repositories
 
 Here are some projects I’m actively working on 👇
-
+- [**agentic-coding-assistant-slash-commands**](https://github.com/codekunoichi/agentic-coding-assistant-slash-commands) - Short cuts slash commands for Agentic Coding Assistant workflows for Claude Code and Codex.
 - [**dgx-spark-open-source**](https://github.com/codekunoichi/dgx-spark-open-source) – DGX Spark setup notes, Ubuntu + GPU workflows, and cheatsheets.  
 - [**clinical_insights_ai**](https://github.com/codekunoichi/clinical_insights_ai) – Clinical data exploration & AI experiments.  
 - [**demo-over-deck**](https://github.com/codekunoichi/demo-over-deck) – Using AI-assisted MVPs to accelerate venture learning (demo-first mindset).  
