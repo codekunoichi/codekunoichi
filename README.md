@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - ## 🚀 Active Repositories
 
 Here are some projects I’m actively working on 👇
+- [**caregap-medgemma**](https://github.com/codekunoichi/caremap-medgemma) – Exploring Google's MedGemma model for care gap identification and clinical decision support.
 - [**agentic-coding-assistant-slash-commands**](https://github.com/codekunoichi/agentic-coding-assistant-slash-commands) - Reusable slash commands for Claude Code and Codex that enforce exploration, planning, and multi-perspective thinking before implementation.
 - [**dgx-spark-open-source**](https://github.com/codekunoichi/dgx-spark-open-source) – DGX Spark setup notes, Ubuntu + GPU workflows, and cheatsheets.  
 - [**clinical_insights_ai**](https://github.com/codekunoichi/clinical_insights_ai) – Clinical data exploration & AI experiments.  
